@@ -1,0 +1,5 @@
+{
+    "compilerOptions": {
+        "declaration": true // 生成*.d.ts
+    }
+}
